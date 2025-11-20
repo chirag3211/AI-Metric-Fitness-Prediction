@@ -1,10 +1,3 @@
-Below is a clean, professional, GitHub-ready **README.md** tailored to your hackathon project.
-It is modeled after your previous assignment’s style but adapted to the complexity and uniqueness of this problem.
-
-You can paste this directly into your GitHub repository.
-
----
-
 # **AI Metric Fitness Prediction — Tri-Encoder Modelling & Augmentation Framework**
 
 ## **Project Author**
@@ -222,22 +215,3 @@ This project develops a robust architecture for metric-based evaluation of LLM r
 * and convex ensembling.
 
 The resulting Model 6 architecture achieves **state-of-the-art performance** on the competition leaderboard and demonstrates the promise of hybrid ordinal–regression frameworks for LLM evaluation tasks.
-
----
-
-## **Future Extensions**
-
-* Train the metric encoder jointly with prompt/response encoders
-* Explore contrastive or metric-learning objectives (SupCon, InfoNCE)
-* Use LoRA for metric-aware fine-tuning of the multilingual encoder
-* Replace fixed metric embeddings with a learned textual decoder
-
----
-
-If you'd like, I can also generate:
-
-🔥 A **compact version** for a pinned GitHub repo
-📄 A **PDF project report** version
-🎨 A **banner image** for the top of your README
-
-Just tell me!
