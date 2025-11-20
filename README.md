@@ -173,37 +173,8 @@ Validation RMSE, submission histograms, and leaderboard comparisons were used th
 * Model 2 remains the best lightweight option with near-SOTA performance at a fraction of the compute.
 
 ---
-
-## **Repository Structure**
-
-```
-├── data/
-│   ├── train_data.json
-│   ├── test_data.json
-│   ├── metric_names.json
-│   └── metric_name_embeddings.npy
-│
-├── src/
-│   ├── embedding_pipeline.py
-│   ├── augmentation.py
-│   ├── tri_encoder_features.py
-│   ├── model_attention.py
-│   ├── model_hybrid.py
-│   ├── combiner.py
-│   └── inference.py
-│
-├── notebooks/
-│   └── eda.ipynb
-│
-├── submissions/
-│   ├── submission_model2.csv
-│   ├── submission_model6.csv
-│   └── final_submission.csv
-│
-└── README.md
-```
-
----
+## **Final Leaderboard Standing**
+![alt text](Final Leaderboard.png)
 
 ## **Conclusion**
 
