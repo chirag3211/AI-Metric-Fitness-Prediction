@@ -174,7 +174,7 @@ Validation RMSE, submission histograms, and leaderboard comparisons were used th
 
 ---
 ## **Final Leaderboard Standing**
-![alt text](Final Leaderboard.png)
+![alt text](Leaderboard.png)
 
 ## **Conclusion**
 
